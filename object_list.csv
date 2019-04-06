@@ -1,0 +1,104 @@
+Object Name,Processed Data,Raw RGB,Raw RGBD,16k laser scan,64k laser scan,512k laser scan
+001_chips_can,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+002_master_chef_can,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+003_cracker_box,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+004_sugar_box,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+005_tomato_soup_can,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+006_mustard_bottle,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+007_tuna_fish_can,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+008_pudding_box,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+009_gelatin_box,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+010_potted_meat_can,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+011_banana,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+012_strawberry,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+013_apple,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+014_lemon,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+015_peach,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+016_pear,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+017_orange,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+018_plum,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+019_pitcher_base,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+021_bleach_cleanser,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+022_windex_bottle,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k3,64k3,512k3
+023_wine_glass,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+024_bowl,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+025_mug,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+026_sponge,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+027-skillet,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+028_skillet_lid,N/A2,N/A2,N/A2,16k,64k,512k
+029_plate,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+030_fork,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+031_spoon,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+032_knife,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+033_spatula,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+035_power_drill,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+036_wood_block,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+037_scissors,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+038_padlock,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+039_key,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+040_large_marker,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+041_small_marker,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+042_adjustable_wrench,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+043_phillips_screwdriver,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+044_flat_screwdriver,Processed (.tgz)3,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+046_plastic_bolt,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+047_plastic_nut,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+048_hammer,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+049_small_clamp,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+050_medium_clamp,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+051_large_clamp,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+052_extra_large_clamp,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+053_mini_soccer_ball,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+054_softball,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+055_baseball,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+056_tennis_ball,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+057_racquetball,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+058_golf_ball,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+059_chain,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+061_foam_brick,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+062_dice,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+063-a_marbles,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+063-b_marbles,N/A2,RGB (.tgz),RGBD (.tgz),16k,64k,512k
+063-c_marbles,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+063-d_marbles,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+063-e_marbles,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+063-f_marbles,N/A2,RGB (.tgz),RGBD (.tgz),N/A2,N/A2,N/A2
+065-a_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-b_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-c_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-d_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-e_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-f_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-g_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-h_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-i_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+065-j_cups,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+070-a_colored_wood_blocks,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+070-b_colored_wood_blocks,N/A1,N/A1,N/A1,16k,64k,512k
+071_nine_hole_peg_test,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+072-a_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+072-b_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+072-c_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+072-d_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+072-e_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+072-f_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+072-g_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+072-h_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+072-i_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+072-j_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+072-k_toy_airplane,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+073-a_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-b_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-c_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-d_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-e_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-f_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-g_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+073-h_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+073-i_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+073-j_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+073-k_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+073-l_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+073-m_lego_duplo,Processed (.tgz),RGB (.tgz),RGBD (.tgz),N/A1,N/A1,N/A1
+076_timer,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
+077_rubiks_cube,Processed (.tgz),RGB (.tgz),RGBD (.tgz),16k,64k,512k
