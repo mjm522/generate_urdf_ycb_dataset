@@ -7,6 +7,12 @@ requirements
 
 `pip install trimesh=2.5.24`
 
+`pip install json`
+
+`pip install urllib`
+
+`pip install urllib2`
+
 Clone and build v-hacd
 
 `https://github.com/kmammou/v-hacd`
